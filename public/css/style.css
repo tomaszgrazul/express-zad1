@@ -1,0 +1,11 @@
+.col {
+    border: 1px solid;
+    background-color: azure;
+}
+
+.my {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
